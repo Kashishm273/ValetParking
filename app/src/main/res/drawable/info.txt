@@ -1,0 +1,1 @@
+drawable contains some of the images used in the application.
